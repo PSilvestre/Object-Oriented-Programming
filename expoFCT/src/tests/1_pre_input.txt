@@ -1,0 +1,100 @@
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+USERS
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+DEPT
+Departamento de Informatica
+DINF
+Ed. II
+DEPT
+Dept. de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mmamede@gmail.com
+DI
+LOGIN
+mmamede@gmail.com
+DI1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+USERS
+LOGOUT
+REGISTER
+VISITOR
+eve@gmail.com
+LOGIN
+eve@gmail.com
+visitor1
+REGISTER
+VISITOR
+alice@gmail.com
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+USERS
+LOGOUT
+LOGOUT
+LOGIN
+alice@gmail.com
+visitor2
+LOGIN
+eve@gmail.com
+visitor1
+LOGIN
+eve@gmail.com
+visitor1
+LOGIN
+mmamede@gmail.com
+DI1
+LOGOUT
+LOGIN
+mmamede@gmail.com
+DII1
+LOGOUT
+REGISTER
+STAFF
+mmamede@gmail.com
+DM
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+REGISTER
+ADMIN
+kylo@gmail.com
+LOGIN
+kylo@gmail.com
+admin2
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+USERS
+LOGOUT
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+LOGIN
+rey@gmail.com
+admin1
+USERS
+EXIT
+

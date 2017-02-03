@@ -1,0 +1,228 @@
+REGISTER
+VISITOR
+eve@gmail.com
+REGISTER
+VISITOR
+bob@gmail.com
+REGISTER
+VISITOR
+john@gmail.com
+REGISTER
+VISITOR
+mary@gmail.com
+REGISTER
+VISITOR
+sarah@gmail.com
+REGISTER
+VISITOR
+sid@gmail.com
+REGISTER
+VISITOR
+michael@gmail.com
+REGISTER
+VISITOR
+michele@gmail.com
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+vamaral@gmail.com
+DI
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+REGISTER
+STAFF
+mmamede@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LOGOUT
+EVENTS
+LOGIN
+amdias@gmail.com
+DI2
+EVENTS
+NEWEVENT
+Turing award winners
+Exposition about Turing winners through the years
+NEWACTIVITY
+Virtual worlds
+Introduction to programming with Alice
+3
+programming
+alice
+visual
+LOGOUT
+LOGIN
+sid@gmail.com
+visitor6
+PARTICIPATE
+Virtual worlds
+PARTICIPATE
+Turing award winners
+PARTICIPATE
+Turing award winners
+PARTICIPATE
+MathMagia
+COMMENT
+MathMagia
+Let's learn some magic
+COMMENT
+Turing award winners
+Leslie Lamport has a Turing award
+EVENTS
+LOGOUT
+LOGIN
+vamaral@gmail.com
+DI1
+NEWACTIVITY
+Robots on the loose
+Programming Lego robots
+4
+programming
+robots
+Lego
+visual
+NEWEVENT
+Code.org
+Anybody can learn to code
+NEWEVENT
+3D Printing
+The 3D Printing Revolution
+LOGOUT
+LOGIN
+bob@gmail.com
+visitor2
+PARTICIPATE
+Exposition MATER
+PARTICIPATE
+Turing award winners
+PARTICIPATE
+3D Printing
+PARTICIPATE
+Virtual worlds
+PARTICIPATE
+Robots on the loose
+COMMENT
+Robots on the loose
+It was fun programming the robots
+COMMENT
+Exposition MATER
+Interesting facts about math
+EVENTS
+LOGOUT
+COMMENTS
+MathMagia
+REGISTER
+ADMIN
+kylo@gmail.com
+LOGIN
+mmamede@gmail.com
+DI3
+NEWACTIVITY
+Computer science unplugged
+Learn computer science through engaging games and puzzles
+3
+sort
+algorithm
+unplugged
+LOGOUT
+LOGIN
+sarah@gmail.com
+visitor5
+PARTICIPATE
+Computer science unplugged
+PARTICIPATE
+Robots on the loose
+PARTICIPATE
+3D Printing
+PARTICIPATE
+MathMagia
+PARTICIPATE
+Robots on the loose
+PARTICIPATE
+Code.org
+COMMENT
+3D Printing
+Learned about 3D printers :-)
+COMMENT
+Computer science unplugged
+Computational thinking is all range
+EVENTS
+LOGOUT
+LOGIN
+mary@gmail.com
+visitor4
+PARTICIPATE
+Code.org
+COMMENT
+Code.org
+My favorite was the Star Wars activity
+LOGOUT
+LOGIN
+john@gmail.com
+visitor3
+PARTICIPATE
+Code.org
+COMMENT
+Code.org
+My favorite was the Angry Birds activity
+LOGOUT
+LOGIN
+michele@gmail.com
+visitor8
+PARTICIPATE
+Code.org
+COMMENT
+Code.org
+There is an Angry Birds movie
+PARTICIPATE
+3D Printing
+PARTICIPATE
+MathMagia
+LOGOUT
+EVENTS
+LOGIN
+kylo@gmail.com
+admin2
+COMMENTS
+Code.org
+COMMENTS
+Turing award winners
+USERS
+LOGOUT
+EXIT
+

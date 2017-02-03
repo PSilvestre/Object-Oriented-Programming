@@ -1,0 +1,79 @@
+LIKE
+Virtual worlds
+DISLIKE
+Virtual worlds
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+vamaral@gmail.com
+DI
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+REGISTER
+STAFF
+mmamede@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LIKE
+Exposition MATER
+LIKE
+MathMagia...
+DISLIKE
+Virtual worlds
+LOGOUT
+LIKE
+MathMagia...
+DISLIKE
+VirtualWorlds
+LIKE
+MathMagia...
+DISLIKE
+VirtualWorlds
+LIKE
+Exposition MATER
+DISLIKE
+MathMagia
+DISLIKE
+MathMagia
+LIKE
+Exposition MATER
+LIKE
+MathMagia
+EVENTS
+EXIT
+

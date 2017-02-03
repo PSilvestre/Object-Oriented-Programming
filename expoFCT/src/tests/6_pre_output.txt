@@ -1,0 +1,106 @@
+No comments registered.
+
+Most commented events:
+
+User was registered: visitor1.
+
+User was registered: visitor2.
+
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department registered.
+
+Goodbye rey@gmail.com.
+
+User was registered: DM1.
+
+User was registered: DI1.
+
+Welcome mfaias@gmail.com.
+
+Activity registered.
+
+Event registered.
+
+No comments registered.
+
+Most commented events:
+
+Goodbye mfaias@gmail.com.
+
+User does not exist.
+
+All events:
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 0; 0
+
+Welcome amdias@gmail.com.
+
+All events:
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 0; 0
+
+Event registered.
+
+Activity registered.
+
+Goodbye amdias@gmail.com.
+
+Welcome eve@gmail.com.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+User does not exist.
+
+Comment does not exist.
+
+Registered in event.
+
+Comment registered.
+
+Comment likes: 1
+
+Comment likes: 2
+
+All events:
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+Turing award winners; amdias@gmail.com; 1; 0; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+
+Goodbye eve@gmail.com.
+
+Comment does not exist.
+
+All events:
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+Turing award winners; amdias@gmail.com; 1; 0; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+
+Welcome rey@gmail.com.
+
+All users:
+rey@gmail.com; ADMIN
+amdias@gmail.com; STAFF; 2
+mfaias@gmail.com; STAFF; 2
+bob@gmail.com; VISITOR; 0
+eve@gmail.com; VISITOR; 3
+
+Goodbye rey@gmail.com.
+
+Let's learn some magic; eve@gmail.com; 2
+
+Most commented events:
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+
+Exiting.
+

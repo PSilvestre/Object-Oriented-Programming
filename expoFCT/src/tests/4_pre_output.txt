@@ -1,0 +1,62 @@
+Event does not exist.
+
+Event does not exist.
+
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department registered.
+
+Goodbye rey@gmail.com.
+
+User was registered: DM1.
+
+User was registered: DI1.
+
+User was registered: DI2.
+
+User was registered: DM2.
+
+User was registered: DI3.
+
+Welcome mfaias@gmail.com.
+
+Activity registered.
+
+Event registered.
+
+Likes: 1
+
+Event does not exist.
+
+Event does not exist.
+
+Goodbye mfaias@gmail.com.
+
+Event does not exist.
+
+Event does not exist.
+
+Event does not exist.
+
+Event does not exist.
+
+Likes: 2
+
+Dislikes: 1
+
+Dislikes: 2
+
+Likes: 3
+
+Likes: 1
+
+All events:
+Exposition MATER; mfaias@gmail.com; 0; 0; 3; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 1; 2
+
+Exiting.
+

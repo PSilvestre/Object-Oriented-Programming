@@ -1,0 +1,145 @@
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LOGOUT
+REGISTER
+VISITOR
+bob@gmail.com
+LOGIN
+bob@gmail.com
+visitor1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+vamaral@gmail.com
+DI
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+REGISTER
+STAFF
+mmamede@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LOGOUT
+LOGIN
+amdias@gmail.com
+DI2
+NEWEVENT
+MathMagia
+Learn amazing math tricks
+NEWEVENT
+Turing award winners
+Exposition about Turing winners through the years
+NEWACTIVITY
+Virtual worlds
+Introduction to programming with Alice
+3
+programming
+alice
+visual
+LOGOUT
+LOGIN
+vamaral@gmail.com
+DI1
+NEWEVENT
+Turing award winners
+Another exposition about Turing winners through the years
+NEWACTIVITY
+Robots on the loose
+Programming Lego robots
+4
+programming
+robots
+Lego
+visual
+NEWEVENT
+Code.org
+Anybody can learn to code
+NEWEVENT
+3D Printing
+The 3D Printing Revolution
+NEWACTIVITY
+3D Printing
+The 3D Printing Revolution
+2
+3D
+printing
+LOGOUT
+EVENTS
+LOGIN
+mmamede@gmail.com
+DI3
+NEWACTIVITY
+Computer science unplugged
+Learn computer science through engaging games and puzzles
+3
+sort
+algorithm
+unplugged
+LOGOUT
+LOGIN
+kylo@gmail.com
+admin2
+USERS
+LOGOUT
+EXIT
+

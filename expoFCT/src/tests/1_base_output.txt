@@ -1,0 +1,83 @@
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department registered.
+
+Goodbye rey@gmail.com.
+
+User was registered: DI1.
+
+User was registered: visitor1.
+
+User was registered: DM1.
+
+User was registered: DI2.
+
+User was registered: DM2.
+
+User was registered: DI3.
+
+Welcome amdias@gmail.com.
+
+Goodbye amdias@gmail.com.
+
+User was registered: visitor2.
+
+User was registered: admin2.
+
+Welcome mfaias@gmail.com.
+
+Goodbye mfaias@gmail.com.
+
+User was registered: visitor3.
+
+Welcome bob@gmail.com.
+
+Goodbye bob@gmail.com.
+
+Welcome kylo@gmail.com.
+
+Department registered.
+
+All users:
+kylo@gmail.com; ADMIN
+rey@gmail.com; ADMIN
+amdias@gmail.com; STAFF; 0
+mfaias@gmail.com; STAFF; 0
+mmamede@gmail.com; STAFF; 0
+rcosta@gmail.com; STAFF; 0
+vamaral@gmail.com; STAFF; 0
+alice@gmail.com; VISITOR; 0
+bob@gmail.com; VISITOR; 0
+eve@gmail.com; VISITOR; 0
+
+Goodbye kylo@gmail.com.
+
+User was registered: DF1.
+
+Welcome rey@gmail.com.
+
+All users:
+kylo@gmail.com; ADMIN
+rey@gmail.com; ADMIN
+amdias@gmail.com; STAFF; 0
+icatarino@gmail.com; STAFF; 0
+mfaias@gmail.com; STAFF; 0
+mmamede@gmail.com; STAFF; 0
+rcosta@gmail.com; STAFF; 0
+vamaral@gmail.com; STAFF; 0
+alice@gmail.com; VISITOR; 0
+bob@gmail.com; VISITOR; 0
+eve@gmail.com; VISITOR; 0
+
+Goodbye rey@gmail.com.
+
+Welcome icatarino@gmail.com.
+
+Goodbye icatarino@gmail.com.
+
+Exiting.
+

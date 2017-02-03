@@ -1,0 +1,278 @@
+User was registered: visitor1.
+
+User was registered: visitor2.
+
+User was registered: visitor3.
+
+User was registered: visitor4.
+
+User was registered: visitor5.
+
+User was registered: visitor6.
+
+User was registered: visitor7.
+
+User was registered: visitor8.
+
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department registered.
+
+Goodbye rey@gmail.com.
+
+User was registered: DM1.
+
+User was registered: DI1.
+
+User was registered: DI2.
+
+User was registered: DM2.
+
+User was registered: DI3.
+
+Welcome mfaias@gmail.com.
+
+Activity registered.
+
+Event registered.
+
+Goodbye mfaias@gmail.com.
+
+All events:
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 0; 0
+
+Welcome amdias@gmail.com.
+
+All events:
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 0; 0
+
+Event registered.
+
+Activity registered.
+
+Goodbye amdias@gmail.com.
+
+Welcome sid@gmail.com.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Comment registered.
+
+Let's learn some magic; sid@gmail.com; 0
+
+Comment likes: 1
+
+Let's learn some magic; sid@gmail.com; 1
+
+Comment registered.
+
+Let's learn some magic; sid@gmail.com; 1
+
+Comment likes: 1
+
+Leslie Lamport has a Turing award; sid@gmail.com; 1
+
+All events:
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+Turing award winners; amdias@gmail.com; 1; 1; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+
+Goodbye sid@gmail.com.
+
+Comment likes: 2
+
+Let's learn some magic; sid@gmail.com; 2
+
+Comment likes: 2
+
+Leslie Lamport has a Turing award; sid@gmail.com; 2
+
+Welcome vamaral@gmail.com.
+
+Activity registered.
+
+Event registered.
+
+Event registered.
+
+Goodbye vamaral@gmail.com.
+
+Most commented events:
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+Turing award winners; amdias@gmail.com; 1; 1; 0; 0
+
+Welcome bob@gmail.com.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Comment registered.
+
+Comment registered.
+
+All events:
+Turing award winners; amdias@gmail.com; 2; 1; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 2; 0; 0; 0
+3D Printing; vamaral@gmail.com; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 1; 1; 0; 0
+MathMagia; mfaias@gmail.com; DM; 1; 1; 0; 0
+Robots on the loose; vamaral@gmail.com; DI; 1; 1; 0; 0
+Code.org; vamaral@gmail.com; 0; 0; 0; 0
+
+Goodbye bob@gmail.com.
+
+Comment likes: 1
+
+Leslie Lamport has a Turing award; sid@gmail.com; 2
+
+Comment likes: 2
+
+Comment likes: 3
+
+It was fun programming the robots; bob@gmail.com; 3
+
+User was registered: admin2.
+
+Welcome mmamede@gmail.com.
+
+Activity registered.
+
+Goodbye mmamede@gmail.com.
+
+Welcome sarah@gmail.com.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Registered in event.
+
+Comment registered.
+
+All events:
+3D Printing; vamaral@gmail.com; 2; 1; 0; 0
+MathMagia; mfaias@gmail.com; DM; 2; 1; 0; 0
+Robots on the loose; vamaral@gmail.com; DI; 2; 1; 0; 0
+Turing award winners; amdias@gmail.com; 2; 1; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 2; 0; 0; 0
+Code.org; vamaral@gmail.com; 1; 0; 0; 0
+Computer science unplugged; mmamede@gmail.com; DI; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 1; 1; 0; 0
+
+Goodbye sarah@gmail.com.
+
+Comment likes: 1
+
+Comment likes: 2
+
+It was fun programming the robots; bob@gmail.com; 3
+
+Comment likes: 3
+
+Welcome mary@gmail.com.
+
+Registered in event.
+
+Comment registered.
+
+Goodbye mary@gmail.com.
+
+Comment likes: 1
+
+Comment likes: 2
+
+Welcome john@gmail.com.
+
+Comment likes: 3
+
+Comment likes: 4
+
+Registered in event.
+
+Comment registered.
+
+Goodbye john@gmail.com.
+
+Welcome michele@gmail.com.
+
+Comment likes: 1
+
+Registered in event.
+
+Comment registered.
+
+Registered in event.
+
+Registered in event.
+
+Goodbye michele@gmail.com.
+
+All events:
+Code.org; vamaral@gmail.com; 4; 3; 0; 0
+3D Printing; vamaral@gmail.com; 3; 1; 0; 0
+MathMagia; mfaias@gmail.com; DM; 3; 1; 0; 0
+Robots on the loose; vamaral@gmail.com; DI; 2; 1; 0; 0
+Turing award winners; amdias@gmail.com; 2; 1; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 2; 0; 0; 0
+Computer science unplugged; mmamede@gmail.com; DI; 1; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 1; 1; 0; 0
+
+Welcome kylo@gmail.com.
+
+All users:
+kylo@gmail.com; ADMIN
+rey@gmail.com; ADMIN
+amdias@gmail.com; STAFF; 2
+mfaias@gmail.com; STAFF; 2
+mmamede@gmail.com; STAFF; 1
+rcosta@gmail.com; STAFF; 0
+vamaral@gmail.com; STAFF; 3
+bob@gmail.com; VISITOR; 5
+eve@gmail.com; VISITOR; 0
+john@gmail.com; VISITOR; 1
+mary@gmail.com; VISITOR; 1
+michael@gmail.com; VISITOR; 0
+michele@gmail.com; VISITOR; 3
+sarah@gmail.com; VISITOR; 5
+sid@gmail.com; VISITOR; 3
+
+Goodbye kylo@gmail.com.
+
+My favorite was the Star Wars activity; mary@gmail.com; 4
+
+Most commented events:
+Code.org; vamaral@gmail.com; 4; 3; 0; 0
+3D Printing; vamaral@gmail.com; 3; 1; 0; 0
+Exposition MATER; mfaias@gmail.com; 1; 1; 0; 0
+MathMagia; mfaias@gmail.com; DM; 3; 1; 0; 0
+Robots on the loose; vamaral@gmail.com; DI; 2; 1; 0; 0
+Turing award winners; amdias@gmail.com; 2; 1; 0; 0
+
+Exiting.
+

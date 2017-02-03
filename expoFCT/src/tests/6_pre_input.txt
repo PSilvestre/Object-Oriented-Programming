@@ -1,0 +1,106 @@
+TOPCOMMENT
+LISTBYCOMMENTS
+REGISTER
+VISITOR
+eve@gmail.com
+REGISTER
+VISITOR
+bob@gmail.com
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+TOPCOMMENT
+LISTBYCOMMENTS
+LOGOUT
+LIKECOMMENT
+Exposition MATER
+mfaias@gmail.com
+EVENTS
+LOGIN
+amdias@gmail.com
+DI1
+EVENTS
+NEWEVENT
+Turing award winners
+Exposition about Turing winners through the years
+NEWACTIVITY
+Virtual worlds
+Introduction to programming with Alice
+3
+programming
+alice
+visual
+LOGOUT
+LOGIN
+eve@gmail.com
+visitor1
+PARTICIPATE
+Virtual worlds
+PARTICIPATE
+Turing award winners
+PARTICIPATE
+Turing award winners
+LIKECOMMENT
+Turing award winners
+mfaias@gmail.com
+LIKECOMMENT
+Turing award winners
+eve@gmail.com
+PARTICIPATE
+MathMagia
+COMMENT
+MathMagia
+Let's learn some magic
+LIKECOMMENT
+MathMagia
+eve@gmail.com
+LIKECOMMENT
+MathMagia
+eve@gmail.com
+EVENTS
+LOGOUT
+LIKECOMMENT
+MathMagia
+bob@gmail.com
+EVENTS
+LOGIN
+rey@gmail.com
+admin1
+USERS
+LOGOUT
+TOPCOMMENT
+LISTBYCOMMENTS
+EXIT
+

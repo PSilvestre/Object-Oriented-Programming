@@ -1,0 +1,85 @@
+User cannot execute this command.
+
+User cannot execute this command.
+
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department name or id already exists.
+
+Department name or id already exists.
+
+Goodbye rey@gmail.com.
+
+User was registered: DI1.
+
+Welcome mmamede@gmail.com.
+
+User cannot execute this command.
+
+User cannot execute this command.
+
+Goodbye mmamede@gmail.com.
+
+User was registered: visitor1.
+
+Welcome eve@gmail.com.
+
+There is a user logged in.
+
+User cannot execute this command.
+
+User cannot execute this command.
+
+Goodbye eve@gmail.com.
+
+No user is logged in.
+
+User does not exist.
+
+Welcome eve@gmail.com.
+
+User already logged in.
+
+Another user is logged in.
+
+Goodbye eve@gmail.com.
+
+Wrong password.
+
+No user is logged in.
+
+User already exists.
+
+Department does not exist.
+
+User was registered: admin2.
+
+Welcome kylo@gmail.com.
+
+Department registered.
+
+All users:
+kylo@gmail.com; ADMIN
+rey@gmail.com; ADMIN
+mmamede@gmail.com; STAFF; 0
+eve@gmail.com; VISITOR; 0
+
+Goodbye kylo@gmail.com.
+
+User was registered: DM1.
+
+Welcome rey@gmail.com.
+
+All users:
+kylo@gmail.com; ADMIN
+rey@gmail.com; ADMIN
+mmamede@gmail.com; STAFF; 0
+rcosta@gmail.com; STAFF; 0
+eve@gmail.com; VISITOR; 0
+
+Exiting.
+

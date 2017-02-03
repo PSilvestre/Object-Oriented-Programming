@@ -1,0 +1,155 @@
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+vamaral@gmail.com
+DI
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+REGISTER
+STAFF
+rcosta@gmail.com
+DM
+REGISTER
+STAFF
+mmamede@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LIKE
+Exposition MATER
+LIKE
+MathMagia
+LOGOUT
+LIKE
+Exposition MATER
+LIKE
+MathMagia
+LIKE
+MathMagia
+EVENTS
+LOGIN
+amdias@gmail.com
+DI2
+LIKE
+Exposition MATER
+EVENTS
+NEWEVENT
+Turing award winners
+Exposition about Turing winners through the years
+NEWACTIVITY
+Virtual worlds
+Introduction to programming with Alice
+3
+programming
+alice
+visual
+LOGOUT
+DISLIKE
+Exposition MATER
+EVENTS
+LOGIN
+vamaral@gmail.com
+DI1
+NEWACTIVITY
+Robots on the loose
+Programming Lego robots
+4
+programming
+robots
+Lego
+visual
+NEWEVENT
+Code.org
+Anybody can learn to code
+NEWEVENT
+3D Printing
+The 3D Printing Revolution
+LIKE
+Turing award winners
+LIKE
+Virtual worlds
+LOGOUT
+LIKE
+Virtual worlds
+LIKE
+Virtual worlds
+REGISTER
+VISITOR
+eve@gmail.com
+REGISTER
+VISITOR
+bob@gmail.com
+LOGIN
+bob@gmail.com
+visitor2
+LIKE
+MathMagia
+DISLIKE
+Turing award winners
+EVENTS
+LOGOUT
+REGISTER
+ADMIN
+kylo@gmail.com
+LOGIN
+mmamede@gmail.com
+DI3
+LIKE
+Virtual worlds
+DISLIKE
+MathMagia
+NEWACTIVITY
+Computer science unplugged
+Learn computer science through engaging games and puzzles
+3
+sort
+algorithm
+unplugged
+LOGOUT
+EVENTS
+LOGIN
+kylo@gmail.com
+admin2
+USERS
+LIKE
+Computer science unplugged
+LIKE
+Exposition MATER
+DISLIKE
+3D Printing
+DISLIKE
+3D Printing
+LOGOUT
+EVENTS
+EXIT
+

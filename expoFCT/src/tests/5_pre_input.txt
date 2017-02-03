@@ -1,0 +1,107 @@
+PARTICIPATE
+Exposition MATER
+COMMENT
+Exposition MATER
+Cannot comment events or activities
+COMMENTS
+Exposition MATER
+REGISTER
+VISITOR
+eve@gmail.com
+REGISTER
+VISITOR
+bob@gmail.com
+REGISTER
+ADMIN
+rey@gmail.com
+LOGIN
+rey@gmail.com
+admin1
+DEPT
+Departamento de Matematica
+DM
+Ed. VII
+DEPT
+Departamento de Informatica
+DI
+Ed. II
+LOGOUT
+REGISTER
+STAFF
+mfaias@gmail.com
+DM
+REGISTER
+STAFF
+vamaral@gmail.com
+DI
+REGISTER
+STAFF
+amdias@gmail.com
+DI
+LOGIN
+mfaias@gmail.com
+DM1
+NEWACTIVITY
+MathMagia
+Learn amazing math tricks
+2
+math
+probability
+NEWEVENT
+Exposition MATER
+Mathematics of Planet Earth 2013
+LOGOUT
+EVENTS
+PARTICIPATE
+Exposition MATER
+COMMENT
+Exposition MATER
+I cannot comment events or activities
+LOGIN
+amdias@gmail.com
+DI2
+EVENTS
+NEWEVENT
+Turing award winners
+Exposition about Turing winners through the years
+NEWACTIVITY
+Virtual worlds
+Introduction to programming with Alice
+3
+programming
+alice
+visual
+LOGOUT
+LOGIN
+eve@gmail.com
+visitor1
+PARTICIPATE
+Virtual worlds
+PARTICIPATE
+Nobel award winners
+COMMENT
+Nobel award winners
+This event does not exist
+COMMENT
+MathMagia
+Let's learn some magic
+PARTICIPATE
+MathMagia
+COMMENT
+Turing award winners
+Leslie Lamport has a Turing award
+EVENTS
+LOGOUT
+LOGIN
+rey@gmail.com
+admin1
+PARTICIPATE
+Exposition MATER
+COMMENT
+Exposition MATER
+I cannot comment events or activities
+USERS
+LOGOUT
+EVENTS
+EXIT
+

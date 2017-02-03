@@ -1,0 +1,73 @@
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Goodbye rey@gmail.com.
+
+User was registered: DI1.
+
+Welcome amd@gmail.com.
+
+Event registered.
+
+Activity registered.
+
+Goodbye amd@gmail.com.
+
+User was registered: visitor1.
+
+User was registered: visitor2.
+
+Welcome finn@gmail.com.
+
+Registered in event.
+
+Likes: 1
+
+Comment registered.
+
+Likes: 1
+
+Goodbye finn@gmail.com.
+
+Welcome kylo@gmail.com.
+
+Dislikes: 1
+
+Registered in event.
+
+Likes: 2
+
+Comment registered.
+
+Comment likes: 1
+
+Goodbye kylo@gmail.com.
+
+Welcome rey@gmail.com.
+
+All users:
+rey@gmail.com; ADMIN
+amd@gmail.com; STAFF; 2
+finn@gmail.com; VISITOR; 1
+kylo@gmail.com; VISITOR; 1
+
+Goodbye rey@gmail.com.
+
+All events:
+Virtual worlds; amd@gmail.com; DI; 2; 2; 2; 0
+Turing award winners; amd@gmail.com; 0; 0; 1; 1
+
+Activities with tag programming:
+Virtual worlds; amd@gmail.com; DI; 2; 2; 2; 0
+
+Wrote my first visual program today; finn@gmail.com; 1
+
+Virtual worlds comments:
+I hate programming; kylo@gmail.com; 0
+Wrote my first visual program today; finn@gmail.com; 1
+
+Exiting.
+

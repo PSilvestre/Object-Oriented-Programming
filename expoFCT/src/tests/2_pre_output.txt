@@ -1,0 +1,93 @@
+User cannot execute this command.
+
+User cannot execute this command.
+
+User was registered: admin1.
+
+Welcome rey@gmail.com.
+
+Department registered.
+
+Department registered.
+
+User cannot execute this command.
+
+User cannot execute this command.
+
+Goodbye rey@gmail.com.
+
+User was registered: visitor1.
+
+Welcome bob@gmail.com.
+
+User cannot execute this command.
+
+User cannot execute this command.
+
+Goodbye bob@gmail.com.
+
+User was registered: DM1.
+
+User was registered: DI1.
+
+User was registered: DI2.
+
+User was registered: DM2.
+
+User was registered: DI3.
+
+Welcome mfaias@gmail.com.
+
+Activity registered.
+
+Event registered.
+
+Goodbye mfaias@gmail.com.
+
+Welcome amdias@gmail.com.
+
+Event name already exists.
+
+Event registered.
+
+Activity registered.
+
+Goodbye amdias@gmail.com.
+
+Welcome vamaral@gmail.com.
+
+Event name already exists.
+
+Activity registered.
+
+Event registered.
+
+Event registered.
+
+Event name already exists.
+
+Goodbye vamaral@gmail.com.
+
+All events:
+3D Printing; vamaral@gmail.com; 0; 0; 0; 0
+Code.org; vamaral@gmail.com; 0; 0; 0; 0
+Exposition MATER; mfaias@gmail.com; 0; 0; 0; 0
+MathMagia; mfaias@gmail.com; DM; 0; 0; 0; 0
+Robots on the loose; vamaral@gmail.com; DI; 0; 0; 0; 0
+Turing award winners; amdias@gmail.com; 0; 0; 0; 0
+Virtual worlds; amdias@gmail.com; DI; 0; 0; 0; 0
+
+Welcome mmamede@gmail.com.
+
+Activity registered.
+
+Goodbye mmamede@gmail.com.
+
+User does not exist.
+
+User cannot execute this command.
+
+No user is logged in.
+
+Exiting.
+
